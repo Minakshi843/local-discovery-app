@@ -47,10 +47,10 @@ Welcome to **Local Discovery App**, your one-stop platform to explore the best p
 
 
 ## Technologies Used:
-HTML5
-CSS3
-JavaScript
-Bootstrap (for responsive design and UI components)
+1. HTML5
+2. CSS3
+3. JavaScript
+4. Bootstrap (for responsive design and UI components)
 
 
 ## Installation
