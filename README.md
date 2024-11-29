@@ -45,10 +45,17 @@ Welcome to **Local Discovery App**, your one-stop platform to explore the best p
 
 ---
 
+
+## Technologies Used:
+HTML5
+CSS3
+JavaScript
+Bootstrap (for responsive design and UI components)
+
+
 ## Installation
 
 Clone the repository and set up the project locally.
-
- ```bash
+```bash
 git clone https://github.com/Minakshi843/local-discovery-app.git
 cd local-discovery-app
