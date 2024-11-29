@@ -2,6 +2,12 @@
 
 Welcome to **Local Discovery App**, your one-stop platform to explore the best places around you! Find restaurants, hotels, destinations, real estate, and more in just a few clicks.
 
+
+You can view the live version of the website here:
+
+[View Live Project](https://local-discovery-kylrrjpnt-minakshis-projects-b2b9a0f1.vercel.app/)
+
+---
 ---
 
 ### Template Info:
